@@ -1,2 +1,2 @@
 # Test1
-Hello folks how r u this is my first commit
+Humans do think logically and practically
